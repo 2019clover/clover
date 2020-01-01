@@ -34,7 +34,7 @@ public class RemoveTeset {
         System.out.println("删除后list=" + list.toString());
 
         List<Person> list2 = new ArrayList<>();
-        list2.add(new Person("clover11", 10));
+        list2.add(new Person("clover111", 10));
         list2.add(new Person("", 0));
         list2.add(new Person("clover2", 12));
         list2.add(new Person("", 0));
